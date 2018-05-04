@@ -1,0 +1,8 @@
+cmd				cs		ras		cas		we
+PALL			0		0		1		0
+NOP				0		1		1		1
+SELF			0		0		0		1
+MRS				0		0		0		0
+READ			0		1		0		1
+WRITE			0		1		0		0
+ACT				0		0		1		1
